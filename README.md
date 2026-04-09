@@ -1,6 +1,6 @@
 # Nuwan Medawaththa
 
-Bioinformatics engineer at a national research institute. MSc in Computer Science at the University of Colombo School of Computing. I build AI-powered tools, full-stack applications, and knowledge systems.
+Junior Bioinformatics engineer at a national research institute. MSc in Computer Science at the University of Colombo School of Computing. I build AI-powered tools, full-stack applications, and knowledge systems.
 
 When I see a manual process, I want to make it disappear. When I see scattered knowledge, I want to make it searchable. When I see someone struggling to learn, I want to build something that helps.
 
